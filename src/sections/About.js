@@ -92,6 +92,8 @@ const About = () => (
         );
       }}
     />
+
+  
   </Section.Container>
 );
 
